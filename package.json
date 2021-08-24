@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://canton32@github.com/canton32/tdl-binary.git"
+    "url": "git+https://MoonwalkInc@github.com/canton32/tdl-binary.git"
   },
   "author": "Anton",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/canton32/tdl-binary/issues"
+    "url": "https://github.com/MoonwalkIn/tdl-binary/issues"
   },
-  "homepage": "https://github.com/canton32/tdl-binary#readme"
+  "homepage": "https://github.com/MoonwalkIn/tdl-binary#readme"
 }
